@@ -1,0 +1,26 @@
+brand:
+  name: Colico
+  website: https://www.colico.be
+  owner: Marc Noël
+  description: >-
+    Fotografie en olieverfschilderijen uit Zeveneken (Oost-Vlaanderen):
+    natuur, landschappen, steden, feesten, documentair werk en portretten.
+
+captions:
+  language: nl
+  tone: warm, uitnodigend, artistiek
+  model: pixtral-12b-2409
+  extra_instructions: ""
+  hashtags_extra:
+    - colico
+    - colicobe
+    - marcnoel
+
+photos:
+  folder: ./photos
+  public_url_base: ""
+  max_per_scan: 5
+
+limits:
+  instagram_caption_chars: 2200
+  bluesky_caption_chars: 300
